@@ -12,6 +12,12 @@
 `Pandas` `NumPy` `Matplotlib` `C++ STL` `Git & GitHub`
 
 ---
+🚧 Under Construction: GitHub uploads coming soon  
+(if I win the fight with laziness). ⚙️  
+![Status](https://img.shields.io/badge/GitHub%20Uploads-Lazily%20Maintained-orange?style=for-the-badge&logo=github)
+
+
+---
 
 ### 📈 Weekly Progress Log
 Every Sunday = Push Day ✅  
@@ -19,5 +25,7 @@ Every Sunday = Push Day ✅
 
 Connect with me for collabs or ideas!  
 📬 brai65917@gmail.com | [LinkedIn](https://www.linkedin.com/in/bharat-rai/) 
+---
+
 ![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharat690&show_icons=true&theme=radical)
 
