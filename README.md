@@ -1,4 +1,4 @@
-# 🚀 Bharat Rai| Engineering Student | AI & ML Enthusiast
+# 🚀 Bharat Rai | Engineering Student | AI & ML Enthusiast
 
 ### 🧠 Learning to build future tech. Dreaming of driving a Dodge Challenger. 
 
