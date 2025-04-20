@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack
 `Python` `C++` `Java` `HTML` `Tailwind CSS`  
-`Pandas` `NumPy` `Matplotlib` `C++ STL` `Git & GitHub`
+`Pandas` `NumPy` `Matplotlib` `Git & GitHub`
 
 ---
 🚧 Under Construction: GitHub uploads coming soon  
